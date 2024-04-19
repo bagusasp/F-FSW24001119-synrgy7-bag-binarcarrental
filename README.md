@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Javascript: Array Challenge
 
 Tugasmu disini adalah memodifikasi file-file berikut:
@@ -598,5 +597,3 @@ Contoh output:
 
 Happy coding!
 =======
-# F-FSW24001119-synrgy7-bag-binarcarrental
->>>>>>> 50aaaf157a49a56cfec97d7fe7232deb71092990
